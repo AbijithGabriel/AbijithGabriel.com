@@ -2,9 +2,9 @@
 Personal blog portfolio 
 
 
-#Before you start, make sure you have installed all dependencies.
-1.install git from https://git-scm.com/downloads
-2.install live server extension in vs code
+#Before you start, make sure you have installed all dependencies below:
+1.  git from https://git-scm.com/downloads
+2.  live server extension in vs code
 
 #To run the project, follow the steps below:
 1. git clone
