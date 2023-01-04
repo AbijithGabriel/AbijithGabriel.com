@@ -1,0 +1,14 @@
+/* copyright 2023 @Abijith-Gabriel */
+
+
+/*----------------------------------------*/
+/* custom property  */
+/*----------------------------------------*/
+
+.light-theme{
+    --background-primary:hsl(0, 0%, 100%);
+    --background-secondary:hsl(0,0%, 95%);
+     
+    --action-primary: hsl(214,32%,91%);
+    --action-secondary:hsl(210,38%,95%);
+}
